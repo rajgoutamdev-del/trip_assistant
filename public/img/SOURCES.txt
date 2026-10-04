@@ -1,0 +1,16 @@
+goa-*.jpg  <-  https://commons.wikimedia.org/wiki/File:Palolem_Beach,_South_Goa.jpg
+goa-2-*.jpg  <-  https://commons.wikimedia.org/wiki/File:Front_Elevation_of_Basilica_of_Bom_Jesus.jpg
+mumbai-*.jpg  <-  https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_30_Gateway_of_India.jpg
+mumbai-2-*.jpg  <-  https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_27_skyline_at_Marine_Drive.jpg
+pune-*.jpg  <-  https://commons.wikimedia.org/wiki/File:Front_view_of_Shaniwar_Wada_illuminated.jpg
+pune-2-*.jpg  <-  https://commons.wikimedia.org/wiki/File:Sinhagad.jpg
+jaipur-*.jpg  <-  https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg
+jaipur-2-*.jpg  <-  https://commons.wikimedia.org/wiki/File:20191219_Fort_Amber,_Amer,_Jaipur_0955_9481.jpg
+delhi-*.jpg  <-  https://commons.wikimedia.org/wiki/File:Tomb_of_Humayun,_Delhi.jpg
+delhi-2-*.jpg  <-  https://commons.wikimedia.org/wiki/File:Gurudwara_Sisganj_Sahib_Chandni_Chowk_19.jpg
+kerala-*.jpg  <-  https://commons.wikimedia.org/wiki/File:Alappuzha_Boat_Beauty_W.jpg
+kerala-2-*.jpg  <-  https://commons.wikimedia.org/wiki/File:Munnar_Overview.jpg
+manali-*.jpg  <-  https://commons.wikimedia.org/wiki/File:Manali_City.jpg
+manali-2-*.jpg  <-  https://commons.wikimedia.org/wiki/File:Hidimba_Devi_Temple_-_North-east_View_-_Manali_2014-05-11_2648-2649.TIF
+varanasi-*.jpg  <-  https://commons.wikimedia.org/wiki/File:Dasaswamedh_ghat-varanasi_india-andres_larin.jpg
+varanasi-2-*.jpg  <-  https://commons.wikimedia.org/wiki/File:Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site,_Sarnath.jpg
